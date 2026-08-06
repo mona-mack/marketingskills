@@ -38,6 +38,7 @@ Skills are markdown files that give AI agents specialized knowledge and workflow
 | [product-marketing-context](skills/product-marketing-context/) | When the user wants to create or update their product marketing context document. Also use when the user mentions... |
 | [programmatic-seo](skills/programmatic-seo/) | When the user wants to create SEO-driven pages at scale using templates and data. Also use when the user mentions... |
 | [referral-program](skills/referral-program/) | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy.... |
+| [remotion-video](skills/remotion-video/) | When the user wants to create marketing videos programmatically with code using Remotion and React — product demos,... |
 | [schema-markup](skills/schema-markup/) | When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user... |
 | [seo-audit](skills/seo-audit/) | When the user wants to audit, review, or diagnose SEO issues on their site. Also use when the user mentions "SEO... |
 | [signup-flow-cro](skills/signup-flow-cro/) | When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the... |
@@ -156,6 +157,7 @@ You can also invoke skills directly:
 - `copy-editing` - Edit and polish existing copy
 - `email-sequence` - Automated email flows
 - `social-content` - Social media content
+- `remotion-video` - Programmatic marketing videos with Remotion + React
 
 ### SEO & Discovery
 - `seo-audit` - Technical and on-page SEO
@@ -166,6 +168,7 @@ You can also invoke skills directly:
 ### Paid & Distribution
 - `paid-ads` - Google, Meta, LinkedIn ad campaigns
 - `social-content` - Social media scheduling and strategy
+- `remotion-video` - Coded video ads, demos, and teasers
 
 ### Measurement & Testing
 - `analytics-tracking` - Event tracking setup
