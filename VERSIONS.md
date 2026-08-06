@@ -25,12 +25,16 @@ Current versions of all skills. Agents can compare against local versions to che
 | product-marketing-context | 1.0.0 | 2026-01-27 |
 | programmatic-seo | 1.0.0 | 2026-01-27 |
 | referral-program | 1.0.0 | 2026-01-27 |
+| remotion-video | 1.0.0 | 2026-08-06 |
 | schema-markup | 1.0.0 | 2026-01-27 |
 | seo-audit | 1.0.0 | 2026-01-27 |
 | signup-flow-cro | 1.0.0 | 2026-01-27 |
 | social-content | 1.0.0 | 2026-01-27 |
 
 ## Recent Changes
+
+### 2026-08-06
+- Added `remotion-video` skill for creating programmatic marketing videos with Remotion + React
 
 ### 2026-01-27
 - Initial version tracking added
