@@ -104,7 +104,11 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Analytics 08.07.–05.10.2026 (90 days): 25,238 views (+57%), 1,812 h watch time (+6%), +196 subscribers (−40%). Total 854 subscribers. About 50+ uploads in 90 days (~4/week), plus Shorts. Daily views mostly 100–600, one spike of ~1,750/day around 01.10.2026.
   - My calculation: watch time per view fell from ~6.4 to ~4.3 min (−32%). New subs per 1,000 views fell from ~20 to ~8. More reach, but much weaker conversion into subscribers.
   - Formats seen: "Trading Desk" series (dark thumbnails, small text, e.g. "3 Credit Spreads live und…"), Shorts on software features ("Wozu dient der EdgeCat…"), "Pre-Earnings Kalender".
-  - Still unknown: Shorts vs long-form split, CTR, traffic sources, returning vs new viewers, which video caused the 01.10 spike. YouTube is blocked for me, so I need Studio screenshots.
+  - Format split, 90 days: Shorts 27 published, 10,807 views, **+2 subs**. Videos 24 published, 12,147 views, +53 subs. Livestreams 3 published, 2,270 views, **+35 subs** (best conversion by far). Typical Short: 190–380 views in its first 28 days.
+  - Funnel: 120,148 impressions, **CTR 4.2%**, average view duration **7:30** (strong). Traffic: Shorts feed 27.6%, browse 24.0%, direct 10.8%, channel pages 9.0%, external 8.9%, other 19.7%. **YouTube search is not even in the top sources.**
+  - Returning viewers (28 days): 61% watch only videos, 29% both, 10% only Shorts.
+  - The 01.10 spike was a 0:34 Short, "Ein Wahlkölner, ein Altbier und die…", filmed at an event booth: 1,180 views (3× usual) and 0 subscribers. Personality and humour get reach, but don't convert without a link to trading value.
+  - My recommendation (2026-10-07): cut standalone Shorts (use clips from long videos/lives that link to the full video), set a fixed weekly livestream slot, publish 1 search-optimised evergreen tutorial per week, and redesign thumbnails (target CTR 6%). KPIs: subs per 1,000 views, share of traffic from search, CTR.
   - Compliance: finance content needs risk disclaimers and no profit promises (not investment advice). Confirm their rules.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
