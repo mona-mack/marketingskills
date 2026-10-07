@@ -15,7 +15,12 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 
 ## Their world
 ### Clients
-- **Praxis Jugendliebe** (Instagram: @praxis_jugendliebe, https://www.instagram.com/praxis_jugendliebe/). Goal: reach more followers. Business type, current follower count, audience and posting rhythm are still unknown.
+- **Praxis Jugendliebe** (Instagram: @praxis_jugendliebe, https://www.instagram.com/praxis_jugendliebe/, web: jugendliebe.de). Goal: reach more followers.
+  - Practice for plastic & aesthetic surgery in Köln (Dürener Straße 291-293, 50935). Run by two female specialist surgeons (Fachärztinnen), one dark-haired, one blonde. Brand look: pink scrubs, sage-green background, infinity-symbol logo.
+  - Snapshot 2026-10-07: 171 posts, 962 followers, 28 following. Category Gesundheit/Kosmetik. Bio: "Natürlich schöne Ergebnisse", "Termin per DM oder Link". Highlights: "Unsere Arbeit", "Unsere Praxis".
+  - Content: mostly Reels. The doctors talk to camera, OR behind-the-scenes, educational topics (Implantat vs. Eigenfett, Stirnverkürzung/Widow's Peak, "Sieht man mir die Behandlung an?"), text-overlay curiosity hooks. Pinned: "Schwanger im OP?", "Implantat aus der Tüte?", "Willkommen in der Praxis Jugendliebe".
+  - Compliance: German HWG §11 limits advertising for cosmetic surgery (no before/after comparisons for non-medically-necessary operations, nothing aimed at under-18s). Plans must respect this; the client should confirm with their legal advisor.
+  - Still unknown: Insights (reach, non-follower share, top Reels), posting frequency, who produces content, local vs. broad follower goal.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
