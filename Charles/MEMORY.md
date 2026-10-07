@@ -25,7 +25,11 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - OptionsMastery GmbH (Germany), founded by Reiner Hofmann (co-founder & MD), Prof. Dr. Kai Oberländer and Maximilian Krupp. Mission: professionalise options trading as a structured method (probabilities, volatility, risk, not predictions).
   - Sells options-trading software: **EdgeSeeker** (market dashboard with VIX, skew, yield spread, composite risk score; "Edge Signature" for overpriced premiums; Monte Carlo for strangles, condors, credit spreads; position sizing; trade management; modules for calendars, GEX, 0DTE, earnings) and **RiskRanger**. Has a Discord community with trade alerts. Present at CapTrader webinars and the German Options Days in Düsseldorf.
   - YouTube content (from web info): live trading with EdgeSeeker, market analyses, trade examples, Q&A.
-  - Channel stats, language (DE or EN?), upload rhythm and analytics still unknown. YouTube is blocked for me, so I need Studio screenshots.
+  - Channel language: **German**.
+  - Analytics 08.07.–05.10.2026 (90 days): 25,238 views (+57%), 1,812 h watch time (+6%), +196 subscribers (−40%). Total 854 subscribers. About 50+ uploads in 90 days (~4/week), plus Shorts. Daily views mostly 100–600, one spike of ~1,750/day around 01.10.2026.
+  - My calculation: watch time per view fell from ~6.4 to ~4.3 min (−32%). New subs per 1,000 views fell from ~20 to ~8. More reach, but much weaker conversion into subscribers.
+  - Formats seen: "Trading Desk" series (dark thumbnails, small text, e.g. "3 Credit Spreads live und…"), Shorts on software features ("Wozu dient der EdgeCat…"), "Pre-Earnings Kalender".
+  - Still unknown: Shorts vs long-form split, CTR, traffic sources, returning vs new viewers, which video caused the 01.10 spike. YouTube is blocked for me, so I need Studio screenshots.
   - Compliance: finance content needs risk disclaimers and no profit promises (not investment advice). Confirm their rules.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
