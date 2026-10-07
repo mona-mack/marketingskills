@@ -117,7 +117,8 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Runs Google Ads (Mona's link came from an ad click).
   - Competitors in longevity: Ayvie (claims "Germany's leading IV-drip bar", Berlin, Munich and more), U – The Longevity Club (Berlin), My Health & Beauty (chain), Isarderma (Munich).
   - Compliance: HWG plus strict rules on health claims for longevity and infusions. No healing or anti-aging promises without evidence.
-  - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Mona's role (which channels), Instagram handle and numbers, budget, expansion plans, current longevity offer.
+  - **Mona's role: Instagram, TikTok and YouTube.**
+  - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Instagram handle and numbers, budget, expansion plans, current longevity offer.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
