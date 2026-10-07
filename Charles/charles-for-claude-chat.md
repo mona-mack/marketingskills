@@ -109,6 +109,7 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Returning viewers (28 days): 61% watch only videos, 29% both, 10% only Shorts.
   - The 01.10 spike was a 0:34 Short, "Ein Wahlkölner, ein Altbier und die…", filmed at an event booth: 1,180 views (3× usual) and 0 subscribers. Personality and humour get reach, but don't convert without a link to trading value.
   - My recommendation (2026-10-07): cut standalone Shorts (use clips from long videos/lives that link to the full video), set a fixed weekly livestream slot, publish 1 search-optimised evergreen tutorial per week, and redesign thumbnails (target CTR 6%). KPIs: subs per 1,000 views, share of traffic from search, CTR.
+  - Strategy document for the client (German): https://claude.ai/code/artifact/b7030b44-706f-4521-b5d8-ddb27577f7c5 (written 2026-10-07). 90-day target: 1,200 subscribers.
   - Compliance: finance content needs risk disclaimers and no profit promises (not investment advice). Confirm their rules.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
