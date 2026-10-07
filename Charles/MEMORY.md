@@ -14,7 +14,10 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 3. **Social copy:** writing posts and captions for social media.
 
 ## Their world
-- Clients, niche, offers and pricing: unknown so far. Learn these early.
+### Clients
+- **Praxis Jugendliebe** (Instagram: @praxis_jugendliebe, https://www.instagram.com/praxis_jugendliebe/). Goal: reach more followers. Business type, current follower count, audience and posting rhythm are still unknown.
+### Other
+- Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
 - Weekly rhythm: unknown.
 
@@ -30,6 +33,8 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 
 ## Key facts & decisions
 - 2026-10-07: Mona built me as her first AI teammate. Named me Charles.
+- I can't open Instagram from my environment (blocked). For Instagram work I need Mona to send screenshots, exported insights or pasted captions.
 
 ## Current priorities
+- Grow Instagram followers for Praxis Jugendliebe (first client task, started 2026-10-07).
 - Get to know her clients, niche and voice so my strategy and copy actually fit.
