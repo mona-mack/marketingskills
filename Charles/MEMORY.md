@@ -44,7 +44,8 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Compliance: HWG plus strict rules on health claims for longevity and infusions. No healing or anti-aging promises without evidence.
   - **Mona's role: Instagram, TikTok and YouTube.**
   - **Dr. Simone Koch** (drsimonekoch.de) is the new longevity expert at Keren Sierra. She is a specialist in gynecology & obstetrics with extra qualifications in nutritional and environmental medicine and longevity medicine. She runs a functional-medicine practice in Berlin and is an author (autoimmune, anti-inflammatory), podcaster and biohacker. Strongest angles: hormones/menopause and skin, inflammaging, nutrition, biological age.
-  - Content day planned for the week of 2026-10-12. Doc with 24 content ideas, schedule, B-roll, compliance and prep: https://claude.ai/code/artifact/f827d27e-0a93-49a1-9c28-e8891c6702a8
+  - Don't call Dr. Koch a gynecologist ("Gynäkologin") in any content. Mona asked to remove it.
+  - Content day planned for the week of 2026-10-12, with Simone on site for 8 h (09:00–17:00). Doc with 22 content ideas (each with recording setup and goal), one YouTube podcast-style interview (intro Simone, why the collaboration, longevity customer journey, questions from the Shorts), schedule, B-roll, compliance and prep: https://claude.ai/code/artifact/f827d27e-0a93-49a1-9c28-e8891c6702a8
   - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Instagram handle and numbers, budget, expansion plans, current longevity offer.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
