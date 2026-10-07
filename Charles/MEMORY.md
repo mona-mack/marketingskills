@@ -36,6 +36,13 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - My recommendation (2026-10-07): cut standalone Shorts (use clips from long videos/lives that link to the full video), set a fixed weekly livestream slot, publish 1 search-optimised evergreen tutorial per week, and redesign thumbnails (target CTR 6%). KPIs: subs per 1,000 views, share of traffic from search, CTR.
   - Strategy document for the client (German): https://claude.ai/code/artifact/b7030b44-706f-4521-b5d8-ddb27577f7c5 (written 2026-10-07). 90-day target: 1,200 subscribers.
   - Compliance: finance content needs risk disclaimers and no profit promises (not investment advice). Confirm their rules.
+- **Keren Sierra** (Keren Sierra Aesthetics GmbH, https://www.kerensierra.de/). Goal: **become the leading longevity & aesthetics clinic and brand in Germany.**
+  - Flagship: about 400 m² inside Breuninger Stuttgart (Marktstraße 1-3), opened around summer 2025. A hybrid of high-end aesthetics and retail, "Schönheit ohne Skalpell" (no surgery). Positioned as a luxury lifestyle brand.
+  - Founder Keren Sierra, a Dominican-born entrepreneur. Philosophy: "True beauty is holistic – it begins within and radiates outward." Team of doctors, dermatologists, cosmeticians and infusion specialists. Hiring a lot (around 14 open roles in Oct 2026, including a doctor "with interest in longevity").
+  - Runs Google Ads (Mona's link came from an ad click).
+  - Competitors in longevity: Ayvie (claims "Germany's leading IV-drip bar", Berlin, Munich and more), U – The Longevity Club (Berlin), My Health & Beauty (chain), Isarderma (Munich).
+  - Compliance: HWG plus strict rules on health claims for longevity and infusions. No healing or anti-aging promises without evidence.
+  - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Mona's role (which channels), Instagram handle and numbers, budget, expansion plans, current longevity offer.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
@@ -58,4 +65,5 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 ## Current priorities
 - Grow Instagram followers for Praxis Jugendliebe (first client task, started 2026-10-07).
 - Grow the OptionsMastery YouTube channel (started 2026-10-07).
+- Keren Sierra: path to leading longevity & aesthetics brand in Germany (started 2026-10-07).
 - Get to know her clients, niche and voice so my strategy and copy actually fit.
