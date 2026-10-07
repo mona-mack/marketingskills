@@ -96,6 +96,12 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Content: mostly Reels. The doctors talk to camera, OR behind-the-scenes, educational topics (Implantat vs. Eigenfett, Stirnverkürzung/Widow's Peak, "Sieht man mir die Behandlung an?"), text-overlay curiosity hooks. Pinned: "Schwanger im OP?", "Implantat aus der Tüte?", "Willkommen in der Praxis Jugendliebe".
   - Compliance: German HWG §11 limits advertising for cosmetic surgery (no before/after comparisons for non-medically-necessary operations, nothing aimed at under-18s). Plans must respect this; the client should confirm with their legal advisor.
   - Still unknown: Insights (reach, non-follower share, top Reels), posting frequency, who produces content, local vs. broad follower goal.
+- **OptionsMastery** (YouTube: @OptionsMasteryEdge, https://www.youtube.com/@OptionsMasteryEdge). Goal: grow the channel.
+  - OptionsMastery GmbH (Germany), founded by Reiner Hofmann (co-founder & MD), Prof. Dr. Kai Oberländer and Maximilian Krupp. Mission: professionalise options trading as a structured method (probabilities, volatility, risk, not predictions).
+  - Sells options-trading software: **EdgeSeeker** (market dashboard with VIX, skew, yield spread, composite risk score; "Edge Signature" for overpriced premiums; Monte Carlo for strangles, condors, credit spreads; position sizing; trade management; modules for calendars, GEX, 0DTE, earnings) and **RiskRanger**. Has a Discord community with trade alerts. Present at CapTrader webinars and the German Options Days in Düsseldorf.
+  - YouTube content (from web info): live trading with EdgeSeeker, market analyses, trade examples, Q&A.
+  - Channel stats, language (DE or EN?), upload rhythm and analytics still unknown. YouTube is blocked for me, so I need Studio screenshots.
+  - Compliance: finance content needs risk disclaimers and no profit promises (not investment advice). Confirm their rules.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
@@ -113,8 +119,9 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 
 ## Key facts & decisions
 - 2026-10-07: Mona built me as her first AI teammate. Named me Charles.
-- I can't open Instagram from my environment (blocked). For Instagram work I need Mona to send screenshots, exported insights or pasted captions.
+- I can't open Instagram or YouTube from my environment (blocked). For Instagram work I need Mona to send screenshots, exported insights or pasted captions.
 
 ## Current priorities
 - Grow Instagram followers for Praxis Jugendliebe (first client task, started 2026-10-07).
+- Grow the OptionsMastery YouTube channel (started 2026-10-07).
 - Get to know her clients, niche and voice so my strategy and copy actually fit.
