@@ -49,7 +49,10 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Instagram handle and numbers, budget, expansion plans, current longevity offer.
 - **Energy Efficiency Movement (EEM)** (energyefficiencymovement.com). Mona's task: LinkedIn content that is more engaging and wins more followers.
   - Non-profit association launched by ABB in 2021, independent since 2024, co-founded by ABB and Alfa Laval. Mission: help industry implement energy efficiency faster (knowledge, connecting organisations, proven solutions, collaboration). Members are called "Movers": 588 organisations in 49 countries and 29 industries (mid-2025). Publishes an annual report and the "Energy Efficiency Investment Report 2026" (98% of companies invest or plan to invest in energy efficiency). Has run a CEO roundtable with the IEA and Hydro-Québec.
-  - Still unknown: LinkedIn page URL, follower count, analytics, post language (probably English), posting rhythm, who creates content.
+  - **Mona runs the company page only. Posts are in English.** Page tagline: "Industry's network for industrial energy efficiency".
+  - Analytics 09.07.–06.10.2026 (90 days): 1,737,020 impressions (−42.1%), 3,076 reactions (−26.3%), 109 comments (−25.9%), 21 reposts (−61.1%). Followers 14,580 total, +686 new (−9%). Daily impressions peak around 100k, so probably partly paid (not confirmed).
+  - My calculation: engagement (reactions+comments+reposts per impression) about 0.18%. About 0.4 new followers per 1,000 impressions. Only 21 reposts despite 588 Movers, so member activation is the core lever.
+  - Still unknown: organic vs sponsored split, number of posts in the period, top posts, who creates content.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
