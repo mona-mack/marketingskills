@@ -47,6 +47,9 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - Don't call Dr. Koch a gynecologist ("Gynäkologin") in any content. Mona asked to remove it.
   - Content day planned for the week of 2026-10-12, with Simone on site for 8 h (09:00–17:00). Doc with 22 content ideas (each with recording setup and goal), one YouTube podcast-style interview (intro Simone, why the collaboration, longevity customer journey, questions from the Shorts), schedule, B-roll, compliance and prep: https://claude.ai/code/artifact/f827d27e-0a93-49a1-9c28-e8891c6702a8
   - Website, press and booking sites are blocked for me, so everything above comes from search snippets. Still unknown: Instagram handle and numbers, budget, expansion plans, current longevity offer.
+- **Energy Efficiency Movement (EEM)** (energyefficiencymovement.com). Mona's task: LinkedIn content that is more engaging and wins more followers.
+  - Non-profit association launched by ABB in 2021, independent since 2024, co-founded by ABB and Alfa Laval. Mission: help industry implement energy efficiency faster (knowledge, connecting organisations, proven solutions, collaboration). Members are called "Movers": 588 organisations in 49 countries and 29 industries (mid-2025). Publishes an annual report and the "Energy Efficiency Investment Report 2026" (98% of companies invest or plan to invest in energy efficiency). Has run a CEO roundtable with the IEA and Hydro-Québec.
+  - Still unknown: LinkedIn page URL, follower count, analytics, post language (probably English), posting rhythm, who creates content.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
@@ -70,4 +73,5 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 - Grow Instagram followers for Praxis Jugendliebe (first client task, started 2026-10-07).
 - Grow the OptionsMastery YouTube channel (started 2026-10-07).
 - Keren Sierra: path to leading longevity & aesthetics brand in Germany (started 2026-10-07).
+- EEM: LinkedIn follower growth (started 2026-10-08).
 - Get to know her clients, niche and voice so my strategy and copy actually fit.
