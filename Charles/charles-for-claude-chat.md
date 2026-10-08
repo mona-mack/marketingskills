@@ -127,7 +127,11 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - **Mona runs the company page only. Posts are in English.** Page tagline: "Industry's network for industrial energy efficiency".
   - Analytics 09.07.–06.10.2026 (90 days): 1,737,020 impressions (−42.1%), 3,076 reactions (−26.3%), 109 comments (−25.9%), 21 reposts (−61.1%). Followers 14,580 total, +686 new (−9%). Daily impressions peak around 100k, so probably partly paid (not confirmed).
   - My calculation: engagement (reactions+comments+reposts per impression) about 0.18%. About 0.4 new followers per 1,000 impressions. Only 21 reposts despite 588 Movers, so member activation is the core lever.
-  - Still unknown: organic vs sponsored split, number of posts in the period, top posts, who creates content.
+  - **Organic vs paid (90 days):** organic 136,037 impressions vs sponsored 1,600,983 (92% paid). Organic engagement rate incl. clicks about 10% (strong). Sponsored about 0.7%. Only 2 page posts were boosted (88k impressions, 9 followers). Most paid impressions come from other campaigns, maybe run via Campaign Manager or partners (ask Mona).
+  - **Posts:** 77 organic posts in 90 days (about 6 a week). Median 761 impressions, 47 of 77 under 1,000. Climate Week NYC made up 24 posts. Video (19 posts) does no better than average.
+  - **What works:** announcing big-name new Movers (GEA Group 13.6k, CERN 11.7k with 10 reposts) is 10–15× the median. Naming and tagging people (Climate Week panelists, 46% CTR). Strong story hooks ("Most industrial facilities buy electricity. This one sells it.").
+  - **What doesn't work:** anonymous Movers ("One of our Active Movers…"), plain link/announcement posts, partnership notices.
+  - My recommendation (2026-10-08): fewer but stronger posts (3–4 a week), always name and tag the Mover or person, a new-Mover welcome series, member activation, and move part of the paid budget into follower ads.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
