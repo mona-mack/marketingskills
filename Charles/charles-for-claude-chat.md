@@ -136,6 +136,7 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
   - **What works:** announcing big-name new Movers (GEA Group 13.6k, CERN 11.7k with 10 reposts) is 10–15× the median. Naming and tagging people (Climate Week panelists, 46% CTR). Strong story hooks ("Most industrial facilities buy electricity. This one sells it.").
   - **What doesn't work:** anonymous Movers ("One of our Active Movers…"), plain link/announcement posts, partnership notices.
   - My recommendation (2026-10-08): fewer but stronger posts (3–4 a week), always name and tag the Mover or person, a new-Mover welcome series, member activation, and optionally a small separate follower campaign retargeting people who saw the sign-up ads.
+- **entdecke.canada** (Instagram account of Destination Canada, Canada's national tourism board, for the German market). Mona runs the account. 2026-10-12: strategy for the new IG feature that adds tagged posts to the feed, used every 2 weeks as a curated community/UGC series.
 ### Other
 - Other clients, niche, offers and pricing: unknown so far. Learn these early.
 - Platforms she writes for: unknown. Ask.
