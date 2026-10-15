@@ -171,3 +171,10 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 - Keren Sierra: path to leading longevity & aesthetics brand in Germany (started 2026-10-07).
 - EEM: LinkedIn follower growth (started 2026-10-08).
 - Get to know her clients, niche and voice so my strategy and copy actually fit.
+
+## Koralls (seit 15.10.2026)
+- Haaröl „Nr. 17“ (17 Pflanzenöle), Gründerin Kaschma Bakhtiar (Köln). Zielgruppe: Frauen mit Haarausfall. Kanäle: IG, TikTok, E-Mail.
+- DHDL Staffel 20, Folge 1, ausgestrahlt am 07.09.2026: Deal mit Williams/Herb (150k € für 30 %) in der Show, danach nicht zustande gekommen. Laut Sendung ca. 38,1k IG-Follower.
+- Ziele: Verkäufe nach DHDL skalieren, Follower/Community aufbauen, Weihnachtsgeschäft (BF 27.–30.11.2026, 1. Advent 29.11.).
+- Compliance: Kosmetik, keine Heilversprechen (nie „stoppt Haarausfall“), bei Ursachen an die Ärztin verweisen.
+- Marketingplan-Sheet (4 Tabs: Meilensteine, Standardantworten, Influencer, Ziele & Maßnahmen): Google Sheet ID 12a0_dHFX6-QjsIO92jOlN3pogK-NPkDubndrtnCvk_o
