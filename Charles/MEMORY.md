@@ -106,3 +106,8 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 - Ziele: Verkäufe nach DHDL skalieren, Follower/Community aufbauen, Weihnachtsgeschäft (BF 27.–30.11.2026, 1. Advent 29.11.).
 - Compliance: Kosmetik, keine Heilversprechen (nie „stoppt Haarausfall“), bei Ursachen an die Ärztin verweisen.
 - Marketingplan-Sheet (4 Tabs: Meilensteine, Standardantworten, Influencer, Ziele & Maßnahmen): Google Sheet ID 12a0_dHFX6-QjsIO92jOlN3pogK-NPkDubndrtnCvk_o
+
+## TriFlow Studio (seit 23.10.2026)
+- Yoga- & Pilates-Studio in Bergheim-Kenten (Zum Biotop 9, 50127), Website yoga-bergheim.de (für mich nicht erreichbar). Auf Urban Sports Club gelistet, Buchungen über Eversports. Bietet auch Pilates Reformer und Aerial.
+- Lehrende: Stephani/Stephi, Sinem (Aerial), Klaudia, Jana, Silvia, Claudia Schiffer (Cacao), Tanja.
+- Workshops 01.11.2026–10.01.2027 (Immunboost, Sinem-Sonntag Aerial, Pilates-Special, Yin, Mala-Kette + Moon Yoga, Face Yoga + Sound, Cacao Ritual, Anfänger-Intensiv, Anti-Stress + Brunch, 108 Sonnengrüße an Silvester, Power Yoga). Mona soll das rein organisch vermarkten; Plan mit Ankündigungsdaten am 23.10.2026 geschrieben.
