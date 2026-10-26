@@ -105,6 +105,7 @@ Mona owns a marketing agency and is its only employee, so she's the strategist, 
 - DHDL Staffel 20, Folge 1, ausgestrahlt am 07.09.2026: Deal mit Williams/Herb (150k € für 30 %) in der Show, danach nicht zustande gekommen. Laut Sendung ca. 38,1k IG-Follower.
 - Ziele: Verkäufe nach DHDL skalieren, Follower/Community aufbauen, Weihnachtsgeschäft (BF 27.–30.11.2026, 1. Advent 29.11.).
 - Compliance: Kosmetik, keine Heilversprechen (nie „stoppt Haarausfall“), bei Ursachen an die Ärztin verweisen.
+- Fakten aus Koralls' eigenen Reel-Skripten (26.10.2026): Koralls wird **3 Jahre alt** (Herbst 2026), N°17 war **schon 8× ausverkauft**, **über 10.000 Menschen** nutzen es, **vegan, ohne Silikone**, mit Laboren in Deutschland entwickelt. In der Show waren **zwei Löwen** interessiert. Schreibweise: "Hair Oil N°17" / "N°17".
 - Marketingplan-Sheet (4 Tabs: Meilensteine, Standardantworten, Influencer, Ziele & Maßnahmen): Google Sheet ID 12a0_dHFX6-QjsIO92jOlN3pogK-NPkDubndrtnCvk_o
 
 ## TriFlow Studio (seit 23.10.2026)
